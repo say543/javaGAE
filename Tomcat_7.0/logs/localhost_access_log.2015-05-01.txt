@@ -1,0 +1,16 @@
+172.31.110.23 - - [01/May/2015:15:52:00 -0700] "GET /waveform/formAndDisplay?name=123&rsnum= HTTP/1.1" 200 880
+172.31.110.23 - - [01/May/2015:15:52:01 -0700] "GET /waveform/resources/css/test.css HTTP/1.1" 304 -
+172.31.110.23 - - [01/May/2015:15:52:02 -0700] "GET /waveform/formAndDisplay?name=Haiyan+Gu&rsnum= HTTP/1.1" 200 17424
+172.31.110.23 - - [01/May/2015:16:01:20 -0700] "GET /waveform/formAndDisplay HTTP/1.1" 200 880
+172.31.110.23 - - [01/May/2015:16:01:25 -0700] "GET /waveform/formAndDisplay?name=Lin+Shao&rsnum= HTTP/1.1" 200 15833
+172.31.110.23 - - [01/May/2015:16:02:14 -0700] "GET /waveform/formAndDisplay?name=&rsnum= HTTP/1.1" 200 880
+172.31.110.23 - - [01/May/2015:16:22:48 -0700] "GET /waveform/formAndDisplay HTTP/1.1" 200 880
+172.31.110.23 - - [01/May/2015:16:22:49 -0700] "GET /waveform/resources/css/test.css HTTP/1.1" 304 -
+172.31.110.23 - - [01/May/2015:16:22:52 -0700] "GET /waveform/formAndDisplay?name=Lin+Shao&rsnum= HTTP/1.1" 200 15833
+172.31.110.23 - - [01/May/2015:16:37:33 -0700] "GET /waveform/formAndDisplay HTTP/1.1" 200 880
+172.31.110.23 - - [01/May/2015:16:37:38 -0700] "GET /waveform/formAndDisplay?name=Lin+Shao&rsnum= HTTP/1.1" 200 15833
+172.31.110.23 - - [01/May/2015:16:37:51 -0700] "GET /waveform/formAndDisplay?name=Hai+Yuan&rsnum= HTTP/1.1" 200 880
+172.31.110.23 - - [01/May/2015:16:37:53 -0700] "GET /waveform/formAndDisplay?name=Lin+Shao&rsnum= HTTP/1.1" 200 15833
+172.31.110.23 - - [01/May/2015:16:37:59 -0700] "GET /waveform/formAndDisplay?name=&rsnum=150122-25-2 HTTP/1.1" 200 2451
+172.31.110.23 - - [01/May/2015:16:46:34 -0700] "GET /waveform/formAndDisplay HTTP/1.1" 200 880
+172.31.110.23 - - [01/May/2015:16:46:39 -0700] "GET /waveform/formAndDisplay?name=Lin+Shao&rsnum= HTTP/1.1" 200 15833
